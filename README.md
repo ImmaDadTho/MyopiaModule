@@ -2,7 +2,7 @@
 
 In this activity I use unsupervised learning to find out if I can group patients into clusters to be able to analyze them separately for myopia.
 I use different clustering algorithms to explore wether the patients can be placed into clusters. I also create some visualizations to better 
-visualize the outcome. There are four parts to this research ` Part 1 ` Prepare the Data, `Part 2 ` Apply Dimensionality Reduction, `Part 3` 
+visualize the outcome. There are four parts to this research ` Part 1` Prepare the Data, `Part 2` Apply Dimensionality Reduction, `Part 3` 
 Perform a Cluster Analysis with K-means, `part 4` MY Recommendation.
 
 
